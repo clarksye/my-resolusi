@@ -1,0 +1,3 @@
+My Resolusi
+- Belajar Programming basic : PHP,html,css,js
+- Setelah memahami basic, baru mulai belajar ke Framework
