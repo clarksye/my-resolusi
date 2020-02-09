@@ -2,5 +2,6 @@ My Resolusi
 - Belajar Programming basic : PHP,html,css,js
 - Setelah memahami basic, baru mulai belajar ke Framework
 - Membuat program / website dengan skil yang baru di pelajari
-- Belajar lagi ketingkat selanjutnya
 - Bekerja di dunia IT baik itu programmer di perusahaan / freelance
+- Bersosialisasi dengan orang banyak
+- Sambil belajar lagi ketingkat selanjutnya
